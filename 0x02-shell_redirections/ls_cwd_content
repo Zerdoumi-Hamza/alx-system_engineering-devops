@@ -1,0 +1,14 @@
+total 40
+drwxrwxr-x 2 hamza hamza 4096 Dec 11 23:27 .
+drwxrwxr-x 6 hamza hamza 4096 Dec 11 22:21 ..
+-rw-rw-r-- 1 hamza hamza    0 Dec 11 22:31 0-hello_world
+-rwxrw-r-- 1 hamza hamza   28 Dec 11 22:31 1-confused_smiley
+-rwxrw-r-- 1 hamza hamza   28 Dec 11 22:33 2-hellofile
+-rwxrw-r-- 1 hamza hamza   39 Dec 11 22:37 3-twofiles
+-rwxrw-r-- 1 hamza hamza   29 Dec 11 22:40 4-lastlines
+-rwxrw-r-- 1 hamza hamza   29 Dec 11 22:41 5-firstlines
+-rwxrw-r-- 1 hamza hamza   40 Dec 11 22:54 6-third_line
+-rwxrw-r-- 1 hamza hamza   53 Dec 11 23:19 7-file
+-rwxrw-r-- 1 hamza hamza   38 Dec 11 23:27 8-cwd_state
+-rw-rw-r-- 1 hamza hamza    0 Dec 11 23:10 (e
+-rw-rw-r-- 1 hamza hamza    0 Dec 11 23:27 ls_cwd_content

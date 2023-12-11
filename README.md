@@ -1,3 +1,1 @@
-
-
-First Directory for the basic shell command 
+First directory for shell redirection
