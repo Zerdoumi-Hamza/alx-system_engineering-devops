@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "ENTER_FILENAME"
+read FILE
+echo  "#!/bin/bash" > $FILE
